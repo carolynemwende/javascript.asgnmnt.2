@@ -1,0 +1,19 @@
+   Difintion is the process where an instance of the type is created by allocating a suitable space of memory.
+It explains more about the identifier. 
+
+
+  Declaration means letting a compiler know the type of the variable defined.In declaration,
+no memory is assigned to the variable therefore the data value can be changed at anytime.
+    
+                    var one;
+                             or 
+                                 var mwende;
+ 
+  initialization refers to the means of assigning an initial value to a variable.
+                      
+                             var one = 1;
+                                           or
+                                            
+                                               var mwende = "girl";            
+               
+                 
